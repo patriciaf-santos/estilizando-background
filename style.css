@@ -1,0 +1,50 @@
+p{
+    color: yellow;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.bg{
+    background-color: lightseagreen;
+    background-image: url(./images/teste22.jpg);
+     }
+
+.bg-image{
+    width: 513px;
+    height: 340px;
+
+}
+
+.bg-repeat{
+    background-repeat: no-repeat;
+    background-image: url(./images/gato.jpg);
+    height: 540px;
+    
+}
+
+.bg-size-cover{
+    background-size: cover;
+    height: 540px;
+    /* A altura do background-size: cover; deve ser, no máximo, a altura da imagem para que ela não perca a qualidade*/
+    }
+
+.bg-fixed{
+    background-attachment: fixed;
+    height: 540px;
+    
+}
+
+.bg-position { /**Forma encurtada**/
+    height: 540px;
+    background: #000 url(./images/teste22.jpg) no-repeat right top;
+    
+  }
+  
+
+/**.bg-position { 
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    height: 540px;
+  }**/
+  
+ 
