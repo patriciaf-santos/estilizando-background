@@ -36,7 +36,7 @@ p{
 
 .bg-position { /**Forma encurtada**/
     height: 540px;
-    background: #000 url(./images/gatolavanderia.jpg) no-repeat right top;
+    background: gray url(./images/gatolavanderia.jpg) no-repeat right top;
     
   }
   
