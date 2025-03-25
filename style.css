@@ -6,7 +6,7 @@ p{
 
 .bg{
     background-color: lightseagreen;
-    background-image: url(./images/teste22.jpg);
+    background-image: url(./images/gatolavanderia.jpg);
      }
 
 .bg-image{
@@ -17,7 +17,7 @@ p{
 
 .bg-repeat{
     background-repeat: no-repeat;
-    background-image: url(./images/gato.jpg);
+    background-image: url(./images/gatonamala.jpg);
     height: 540px;
     
 }
@@ -36,7 +36,7 @@ p{
 
 .bg-position { /**Forma encurtada**/
     height: 540px;
-    background: #000 url(./images/teste22.jpg) no-repeat right top;
+    background: #000 url(./images/gatolavanderia.jpg) no-repeat right top;
     
   }
   
